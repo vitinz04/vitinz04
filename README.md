@@ -1,19 +1,61 @@
-# Hello World, My name is Victor Hugo and welcome to my profile! 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-## 🔭 Atualmente estou trabalhando em:
-- Projetos em C#, Java e Python.
+###
 
-## 💻 Linguagens que eu uso:
-![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 📊 Minhas Atividades no GitHub:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-usuario-github&theme=react-dark)
+###
 
-## 📈 Estatísticas do GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&hide_title=true&hide=prs&theme=react)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitinz04.vitinz04&"  />
+</div>
 
-## 🔗 Me encontre em:
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Website/Blog](https://seu-site.com)
+###
+
+<h1 align="center">Hello World, My name is Victor Hugo and welcome to my profile!👋</h1>
+
+###
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<p align="left">I am a young man looking for a lighter and more productive life in Machado MG<br><br>- 🔭 I am working as a delivery man<br>- 📚 I am currently learning Python / Java<br>- ⚡ In my free time I like to play, study and go to the gym</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitinz04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=vitinz04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
