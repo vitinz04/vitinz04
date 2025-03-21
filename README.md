@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I am a young man looking for a lighter and more productive life in Machado MG<br><br>- 🔭 I am working as a delivery man<br>- 📚 I am currently learning Python / Java<br>- ⚡ In my free time I like to play, study and go to the gym</p>
+<p align="left">I am a young man looking for a lighter and more productive life and currently studying Information Systems at IMFG<br><br>- 🔭 I am working as a delivery man<br>- 📚 I am currently learning Python / Java<br>- ⚡ In my free time I like to play, study and go to the gym</p>
 
 ###
 
