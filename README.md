@@ -19,7 +19,7 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vitinz04.vitinz04&"  />
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Sou um jovem em busca de uma vida mais leve e produtiva e atualmente estudo Sistemas de Informação no IMFG<br><br>- 🔭 Trabalho como entregador<br>- 📚 Atualmente estou aprendendo Python/Java<br>- ⚡ No meu tempo livre gosto de jogar, estudar e ir à academia</p>
+<p align="left">Sou um jovem em busca de uma vida mais leve e produtiva e atualmente estudo Sistemas de Informação no IMFG<br><br>- 🔭 Trabalho como entregador<br>- 📚 Atualmente estou aprendendo Java<br>- ⚡ No meu tempo livre gosto de jogar, estudar e ir à academia</p>
 ###
 
 <h3 align="left">🛠 Linguagem e ferramentas </h3>
