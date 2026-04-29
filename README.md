@@ -27,19 +27,18 @@
 
 ###
 
-<h1 align="center">Hello World, My name is Victor Hugo and welcome to my profile!👋</h1>
+<h1 align="center">Olá mundo! Meu nome é Victor Hugo e sejam bem-vindos ao meu perfil!👋</h1>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻 Sobre mim</h2>
 
 ###
 
-<p align="left">I am a young man looking for a lighter and more productive life and currently studying Information Systems at IMFG<br><br>- 🔭 I am working as a delivery man<br>- 📚 I am currently learning Python / Java<br>- ⚡ In my free time I like to play, study and go to the gym</p>
-
+<p align="left">Sou um jovem em busca de uma vida mais leve e produtiva e atualmente estudo Sistemas de Informação no IMFG<br><br>- 🔭 Trabalho como entregador<br>- 📚 Atualmente estou aprendendo Python/Java<br>- ⚡ No meu tempo livre gosto de jogar, estudar e ir à academia</p>
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e ferramentas </h3>
 
 ###
 
